@@ -27,6 +27,7 @@ cd personal-website
 npm install
 # run locally
 npm run dev
+```
 
 ### Backend
 
@@ -36,4 +37,4 @@ composer install
 cp .env.example .env
 php artisan key:generate
 php artisan serve
-
+```
